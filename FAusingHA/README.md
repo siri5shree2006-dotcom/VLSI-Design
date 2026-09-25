@@ -1,4 +1,4 @@
-Full Adder Using Half Adders
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/91d1cb93-637b-43bd-a87a-d1c0d76f97fd" />Full Adder Using Half Adders
 
 A Full Adder is a combinational digital circuit used to add three binary inputs and generate two outputs: Sum and Carry.
 
@@ -21,21 +21,10 @@ Cout – Carry output
 2 Half Adders
 1 OR Gate
 
-##TRUTH TABLE
-┌─────────────────────────────┐
-│     FULL ADDER TRUTH TABLE  │
-├───┬───┬─────┬─────┬────────┤
-│ A │ B │ Cin │ Sum │  Cout  │
-├───┼───┼─────┼─────┼────────┤
-│ 0 │ 0 │  0  │  0  │   0    │
-│ 0 │ 0 │  1  │  1  │   0    │
-│ 0 │ 1 │  0  │  1  │   0    │
-│ 0 │ 1 │  1  │  0  │   1    │
-│ 1 │ 0 │  0  │  1  │   0    │
-│ 1 │ 0 │  1  │  0  │   1    │
-│ 1 │ 1 │  0  │  0  │   1    │
-│ 1 │ 1 │  1  │  1  │   1    │
-└───┴───┴─────┴─────┴────────┘
+## TRUTH TABLE
+<img width="360" height="229" alt="image" src="https://github.com/user-attachments/assets/034f3bcf-b501-4d8b-b7f8-be77d9c90615" />
+
+
 🧮 Working Principle
 The first Half Adder adds inputs A and B and produces an intermediate Sum and Carry.
 
