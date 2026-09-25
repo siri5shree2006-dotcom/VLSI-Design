@@ -20,17 +20,22 @@ Cout – Carry output
 🔧 Components Used
 2 Half Adders
 1 OR Gate
-🔢 Truth Table
-A  	B	Cin	Sum	Cout
-0   0 	0 	0	0
-0 	0	  1	 1	0
-0	  1 	0	 1	0
-0 	1 	1	 0	1
-1 	0 	0	 1	0
-1	  0	  1 	0	1
-1 	1 	0	 0	1
-1	  1 	1	 1	1
 
+##TRUTH TABLE
+┌─────────────────────────────┐
+│     FULL ADDER TRUTH TABLE  │
+├───┬───┬─────┬─────┬────────┤
+│ A │ B │ Cin │ Sum │  Cout  │
+├───┼───┼─────┼─────┼────────┤
+│ 0 │ 0 │  0  │  0  │   0    │
+│ 0 │ 0 │  1  │  1  │   0    │
+│ 0 │ 1 │  0  │  1  │   0    │
+│ 0 │ 1 │  1  │  0  │   1    │
+│ 1 │ 0 │  0  │  1  │   0    │
+│ 1 │ 0 │  1  │  0  │   1    │
+│ 1 │ 1 │  0  │  0  │   1    │
+│ 1 │ 1 │  1  │  1  │   1    │
+└───┴───┴─────┴─────┴────────┘
 🧮 Working Principle
 The first Half Adder adds inputs A and B and produces an intermediate Sum and Carry.
 
