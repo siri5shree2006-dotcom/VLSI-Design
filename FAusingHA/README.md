@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/91d1cb93-637b-43bd-a87a-d1c0d76f97fd" />Full Adder Using Half Adders
+Full Adder Using Half Adders
 
 A Full Adder is a combinational digital circuit used to add three binary inputs and generate two outputs: Sum and Carry.
 
