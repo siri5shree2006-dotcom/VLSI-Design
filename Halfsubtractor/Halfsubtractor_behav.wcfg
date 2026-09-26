@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="hsubtb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="hsubtb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="40.001 ns"></ZoomEndTime>
+      <Cursor1Time time="40.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="59"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="4" />
+   <wvobject fp_name="/hsubtb/A" type="logic">
+      <obj_property name="ElementShortName">A</obj_property>
+      <obj_property name="ObjectShortName">A</obj_property>
+   </wvobject>
+   <wvobject fp_name="/hsubtb/B" type="logic">
+      <obj_property name="ElementShortName">B</obj_property>
+      <obj_property name="ObjectShortName">B</obj_property>
+   </wvobject>
+   <wvobject fp_name="/hsubtb/Difference" type="logic">
+      <obj_property name="ElementShortName">Difference</obj_property>
+      <obj_property name="ObjectShortName">Difference</obj_property>
+   </wvobject>
+   <wvobject fp_name="/hsubtb/Borrow" type="logic">
+      <obj_property name="ElementShortName">Borrow</obj_property>
+      <obj_property name="ObjectShortName">Borrow</obj_property>
+   </wvobject>
+</wave_config>
