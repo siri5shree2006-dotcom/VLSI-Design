@@ -24,3 +24,6 @@ The logic diagram of it is :
 
 <img width="474" height="275" alt="image" src="https://github.com/user-attachments/assets/da6754fd-e3e9-4a6c-ba59-be1594aed7f4" />
 
+
+
+
