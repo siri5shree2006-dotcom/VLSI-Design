@@ -13,9 +13,11 @@ A comparator compares two 1-bit binary inputs `a` and `b` and produces three out
 
 
 ##Boolean Expressions
-  A > B: AB′
-  A < B: A′B
-  A = B: A′B′ + AB
+ @ A > B: AB′
+ 
+ @ A < B: A′B
+ 
+ @ A = B: A′B′ + AB
 
 
 ## Inputs
